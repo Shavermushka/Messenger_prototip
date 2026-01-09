@@ -75,8 +75,8 @@ MIT License
 Мобильная версия
 
 Скриншот
+<img width="1439" height="778" alt="2026-01-09_23-16-23" src="https://github.com/user-attachments/assets/216269d8-e26d-4384-ad4c-91f6cc9a8d2f" />
 
-<img width="1439" height="778" alt="2026-01-09_23-16-23" src="https://github.com/user-attachments/assets/f57bda61-5581-45d1-a269-0a2d7e48463d" />
 
 
 🛡️ Статус проекта
