@@ -32,7 +32,7 @@
 ## 🚀 Установка и запуск
 
 1. **Клонируйте репозиторий**:
-```bash
+
 git clone https://github.com/ваш-ник/MessengerPro.git
 Установите зависимости:
 ---
@@ -74,9 +74,7 @@ MIT License
 
 Мобильная версия
 
-Скриншот
-<img width="1439" height="778" alt="2026-01-09_23-16-23" src="https://github.com/user-attachments/assets/216269d8-e26d-4384-ad4c-91f6cc9a8d2f" />
-
+<img width="1439" height="778" alt="2026-01-09_23-16-23" src="https://github.com/user-attachments/assets/fba5a62a-6886-4395-a962-4bef6d2bcfdc" />
 
 
 🛡️ Статус проекта
