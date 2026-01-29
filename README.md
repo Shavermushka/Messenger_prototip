@@ -33,7 +33,7 @@
 
 1. **Клонируйте репозиторий**:
 
-git clone https://github.com/ваш-ник/MessengerPro.git
+git clone https://github.com/Shavermushka/MessengerPro.git
 Установите зависимости:
 ---
 pip install -r requirements.txt
