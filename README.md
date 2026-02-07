@@ -37,16 +37,17 @@ git clone https://github.com/Shavermushka/MessengerPro.git
 ***
 
 Установите зависимости:
----
+
 pip install -r requirements.txt
 ---
 Запустите сервер:
----
+
 python server.py
 ---
 Откройте в браузере:
----
+
 http://localhost:5000
+---
 ---
 📊 Требования к окружению
 Python 3.12+
