@@ -32,23 +32,23 @@
 ## 🚀 Установка и запуск
 
 1. **Клонируйте репозиторий**:
-***
+```bash
 git clone https://github.com/Shavermushka/MessengerPro.git
-***
+```
 
 Установите зависимости:
-
+```bash
 pip install -r requirements.txt
----
+```
 Запустите сервер:
-
+```bash
 python server.py
----
+```
 Откройте в браузере:
-
+```bash
 http://localhost:5000
----
----
+```
+
 📊 Требования к окружению
 Python 3.12+
 
